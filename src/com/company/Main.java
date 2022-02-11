@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Возвращенное значение " + test.r);
     }
 }
+
+
 class numb{
     int r = 10;
     void displayInfo(){
